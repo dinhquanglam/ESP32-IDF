@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DHT11_Innoway/main/app_main.c&apos; to &apos;DHT11_Innoway.c&apos;" description="Rename resource &apos;app_main.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="main/app_main.c" name="DHT11_Innoway.c" stamp="1655262408386" updateReferences="true"/>
+</session>

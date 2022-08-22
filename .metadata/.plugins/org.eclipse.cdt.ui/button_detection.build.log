@@ -1,0 +1,2 @@
+C:\Espressif\python_env\idf4.3_py3.9_env\Scripts\python.exe C:\Espressif\frameworks\esp-idf-v4.3.3\components\partition_table\gen_esp32part.py C:\Users\Admin\Desktop\ESP_Working_space\button_detection\build\partition_table\partition-table.bin
+Total time taken to build the project: 173,902 ms

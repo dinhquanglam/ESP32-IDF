@@ -1,0 +1,1 @@
+cmd='C:/Espressif/tools/cmake/3.16.4/bin/cmake.exe;-DSDKCONFIG=C:/Users/Admin/Desktop/ESP_Working_space/tcp/sdkconfig;-DIDF_PATH=C:/Espressif/frameworks/esp-idf-v4.3.3;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=python;-DEXTRA_COMPONENT_DIRS=C:/Espressif/frameworks/esp-idf-v4.3.3/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

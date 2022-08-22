@@ -1,0 +1,13 @@
+Total sizes:
+Used static DRAM:   32568 bytes ( 148168 remain, 18.0% used)
+      .data size:   16224 bytes
+      .bss  size:   16344 bytes
+Used static IRAM:   85882 bytes (  45190 remain, 65.5% used)
+      .text size:   84855 bytes
+   .vectors size:    1027 bytes
+Used Flash size :  695715 bytes
+      .text     :  572163 bytes
+      .rodata   :  123296 bytes
+Total image size:  797821 bytes (.bin may be padded larger)
+C:\Espressif\python_env\idf4.3_py3.9_env\Scripts\python.exe C:\Espressif\frameworks\esp-idf-v4.3.3\components\partition_table\gen_esp32part.py C:\Users\Admin\Desktop\ESP_Working_space\Project_Innoway_DHT11\build\partition_table\partition-table.bin
+Total time taken to build the project: 39,841 ms
